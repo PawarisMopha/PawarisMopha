@@ -1,10 +1,14 @@
 # 👋 Hi, I'm Pawaris Mopha
 
 ### 📊 My GitHub Stats
-![Your GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+<p align="left">
+  <img src="https://vercel.app" alt="Stats" />
+  <img src="https://vercel.app" alt="Langs" />
+</p>
 
 ### 🛠 Languages and Tools
-![Git](https://shields.io)
-![Termux](https://shields.io)
-![Linux](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
