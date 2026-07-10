@@ -34,5 +34,9 @@ jobs:
     - name: Publish to GitHub Packages
       run: mvn deploy -DskipTests
       env:
+<<<<<<< HEAD
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}​
 
+=======
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>>>>>>> 27f7d44 (Fix: Use Java/Maven workflow instead of Python)
